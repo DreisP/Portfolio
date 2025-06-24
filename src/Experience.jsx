@@ -8,7 +8,7 @@ function Experience() {
 
                 {/* Card 1 */}
                 <div className="max-w-md h-full rounded overflow-hidden shadow-lg bg-white">
-                    <img className="w-full border border-blue-500 rounded-2xl" src="/img/Project_screenshot.png" alt="Sunset in the mountains" />
+                    <img className="w-full border border-blue-500 rounded-2xl" src="img/Project_screenshot.png" alt="Sunset in the mountains" />
                     <div className="px-6 py-4">
                         <div className="font-bold text-xl mb-2">Project - KunstKoers</div>
 
