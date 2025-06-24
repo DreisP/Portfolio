@@ -12,10 +12,13 @@ function App() {
       {/* Radiale maskering – fade naar wit */}
       <div className="pointer-events-none fixed inset-0 -z-10 flex items-center justify-center bg-white [mask-image:radial-gradient(ellipse_at_center,transparent_20%,black)]"></div>
 
-      {/* Inhoud bovenop */}
-      <Header />
-      <Experience />
-      <TechStack />
+      {/* Centrale container */}
+      <div className="max-w-[80rem] mx-auto px-4">
+        <Header />
+        <Experience />
+        <TechStack />
+      </div>
+
     </div>
   );
 }
