@@ -44,7 +44,7 @@ function Experience() {
 
                 {/* Card 2 */}
                 <div className="max-w-md rounded overflow-hidden shadow-lg bg-white">
-                    <img className="w-full border border-blue-500 rounded-2xl" src="/img/Style_sheet.png" alt="Sunset in the mountains" />
+                    <img className="w-full border border-blue-500 rounded-2xl" src="img/Style_sheet.png" alt="Sunset in the mountains" />
                     <div className="px-6 py-4">
                         <div className="font-bold text-xl mb-2">Style Sheet</div>
 
