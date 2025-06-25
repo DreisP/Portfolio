@@ -40,12 +40,7 @@ function Experience() {
                                     Live Project
                                 </a>
                                 <p className="text-gray-700 text-base">
-                                    Schoolproject voor api gebruik met een fullstack website. De
-                                    website dient voor een fiets te vinden op een map en die dan te
-                                    huren. Hierna kan je straatkunt op een map vinden en een route
-                                    maken tussen de kunstwerken. Ook kan je naar de detailpagina
-                                    gaan van het kunstwerk waar je een review kan achterlaten.
-                                    Gemaakt met API's van Gent.
+                                    Schoolproject rond API-gebruik met een fullstack website. Via de website kun je een fiets zoeken op een kaart en deze vervolgens huren. Daarnaast kun je straatkunst op de kaart ontdekken en een route uitstippelen tussen de kunstwerken. Ook is er een detailpagina per kunstwerk waar je een review kunt achterlaten. Gemaakt met de API's van Stad Gent.
                                 </p>
                             </div>
                             <div className="mt-4 flex flex-wrap gap-2">
@@ -94,8 +89,7 @@ function Experience() {
                                     Live Project
                                 </a>
                                 <p className="text-gray-700 text-base">
-                                    Schoolproject waar je de energie die van België naar het buiteland en andersom kan zien op een bepaald tijdstip en dag. Je kan zien hoeveel energie in MegaWatt wordt verplaatst. Werd gemaakt via api's van Elias
-                                </p>
+                                    Schoolproject waarin je de energie-uitwisseling tussen België en het buitenland kunt bekijken op een specifieke datum en tijdstip. Je ziet hoeveel energie in megawatt wordt verplaatst. Gemaakt met de API's van Elia.                                </p>
                             </div>
                             <div className="mt-4 flex flex-wrap gap-2">
                                 <span className="bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700">
@@ -143,9 +137,7 @@ function Experience() {
                                     Live Project
                                 </a>
                                 <p className="text-gray-700 text-base">
-                                    Via OOCSS eensStyle schema maken. Dit moest via OOCSS zijn zodat dit herbruikbaar is in andere opdrachten / projecten. Deze CSS heb ik dan hergebruikt voor mijn project.
-
-
+                                    Opdracht waarbij ik via OOCSS een stijlenschema heb opgezet. Door OOCSS toe te passen is de CSS herbruikbaar in andere opdrachten en projecten. Deze stylesheet heb ik later opnieuw gebruikt voor mijn project.
                                 </p>
                             </div>
                             <div className="mt-4 flex flex-wrap gap-2">
@@ -182,8 +174,7 @@ function Experience() {
                                     Live Project
                                 </a>
                                 <p className="text-gray-700 text-base">
-                                    School opdracht waar je moest aantonen dat je complexe css zaken onder controle had en kon gebruiken op een website
-
+                                    Schoolopdracht waarin ik moest aantonen dat ik complexe CSS-technieken beheers en correct kan toepassen binnen een website.
 
                                 </p>
                             </div>
@@ -194,7 +185,7 @@ function Experience() {
                                 <span className="bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700">
                                     OOCSS
                                 </span>
-                                
+
                             </div>
                         </div>
                     </div>
@@ -207,7 +198,7 @@ function Experience() {
                         />
                         <div className="flex flex-col flex-grow px-6 py-4 justify-between">
                             <div>
-                                <h2 className="font-bold text-xl mb-2">Website Creator Script</h2>
+                                <h2 className="font-bold text-xl mb-2">Website Creator Script (School Opdracht)</h2>
                                 <a
                                     href="https://github.com/DreisP/Website-Creator-Script"
                                     className="inline-flex items-center text-gray-400 hover:underline mb-4"
@@ -221,8 +212,7 @@ function Experience() {
                                     Live Project
                                 </a>
                                 <p className="text-gray-700 text-base">
-                                    Python script dat dient voor op een server te runnen dat je een website bouwt en rund. Je kan kiezen tussen verschillende websites. Gebruikt een ander script dat dient voor dynamisch databases aan te maken.
-
+                                    Python-script dat op een server draait en automatisch websites opzet en start. Je kunt kiezen tussen verschillende soorten websites. Het script maakt ook gebruik van een ander script om dynamisch databases aan te maken.
                                 </p>
                             </div>
                             <div className="mt-4 flex flex-wrap gap-2">
@@ -238,7 +228,7 @@ function Experience() {
                                 <span className="bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700">
                                     Rocky Linux (Server distro)
                                 </span>
-                                
+
                             </div>
                         </div>
                     </div>
