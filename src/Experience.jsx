@@ -18,7 +18,7 @@ function Experience() {
                 >
 
                     {/* Card 1 */}
-                    <div className="flex flex-col h-[600px] max-w-md w-full rounded-3xl overflow-hidden shadow-lg bg-white">
+                    <div className="flex flex-col h-[620px] max-w-md w-full rounded-3xl overflow-hidden shadow-lg bg-white">
                         <img
                             className="w-full h-48 object-cover border-2 border-blue-500 rounded-3xl"
                             src="img/Project_screenshot.png"
@@ -72,7 +72,7 @@ function Experience() {
                     </div>
 
                     {/* Card 2 */}
-                    <div className="flex flex-col h-[600px] max-w-md w-full rounded-3xl overflow-hidden shadow-lg bg-white">
+                    <div className="flex flex-col h-[620px] max-w-md w-full rounded-3xl overflow-hidden shadow-lg bg-white">
                         <img
                             className="w-full h-48 object-cover border-2 border-blue-500 rounded-3xl"
                             src="img/EliaWebsite.png"
@@ -121,7 +121,7 @@ function Experience() {
                     </div>
 
                     {/* Card 3 */}
-                    <div className="flex flex-col h-[600px] max-w-md w-full rounded-3xl overflow-hidden shadow-lg bg-white">
+                    <div className="flex flex-col h-[620px] max-w-md w-full rounded-3xl overflow-hidden shadow-lg bg-white">
                         <img
                             className="w-full h-48 object-cover border-2 border-blue-500 rounded-3xl"
                             src="img/Style_sheet.png"
@@ -160,7 +160,7 @@ function Experience() {
                     </div>
 
                     {/* Card 4 */}
-                    <div className="flex flex-col h-[600px] max-w-md w-full rounded-3xl overflow-hidden shadow-lg bg-white">
+                    <div className="flex flex-col h-[620px] max-w-md w-full rounded-3xl overflow-hidden shadow-lg bg-white">
                         <img
                             className="w-full h-48 object-cover border-2 border-blue-500 rounded-3xl"
                             src="img/Css_demos.png"
@@ -199,7 +199,7 @@ function Experience() {
                         </div>
                     </div>
                     {/* Card 5 */}
-                    <div className="flex flex-col h-[600px] max-w-md w-full rounded-3xl overflow-hidden shadow-lg bg-white">
+                    <div className="flex flex-col h-[620px] max-w-md w-full rounded-3xl overflow-hidden shadow-lg bg-white">
                         <img
                             className="w-full h-48 object-cover border-2 border-blue-500 rounded-3xl"
                             src="img/Rocky-Linux-Logo.png.webp"
