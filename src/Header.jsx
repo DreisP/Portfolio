@@ -8,7 +8,7 @@ function Header() {
             initial={{ opacity: 0 }} 
             animate={{ opacity: 1 }} 
             transition={{ duration: 2 }} 
-            className="h-screen w-full flex flex-col items-center justify-center  relative"
+            className="h-screen w-full flex flex-col items-center justify-center relative"
         >
             <h1 className="relative z-20 text-blue-500 py-8 text-5xl font-bold sm:text-7xl">
                 Dries Pattyn
@@ -20,6 +20,15 @@ function Header() {
                 Student Software Developer
             </p>
             <p className="relative text-1xl text-gray-400 font-bold">Ghent, Belgium</p>
+
+            {/* Pijlen onderaan */}
+            <motion.div
+                className="absolute bottom-10 flex gap-4 z-20"
+                animate={{ y: [0, -20, 0] }}
+                transition={{ repeat: Infinity, duration: 1.75, ease: "easeInOut" }}
+            >
+                <img className="scale-200" src="img/arrow_downward_24dp_2463EB_FILL0_wght400_GRAD0_opsz24.svg" alt="" />
+            </motion.div>
         </motion.div>
     );
 }
